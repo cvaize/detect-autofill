@@ -1,0 +1,8 @@
+{
+  "name": "detect-autofill",
+  "version": "1.0.0",
+  "description": "Small javascript library to detect and even prevent browsers autofill of form elements. Usefull for implementing floating labels or applying custom logics/styles.",
+  "main": "src/index.js",
+  "author": "cvaize@gmail.com",
+  "license": "MIT"
+}
